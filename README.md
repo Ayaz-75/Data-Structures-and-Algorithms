@@ -1,2 +1,4 @@
 This repository contains all the codes for Data Structures and Algorithms
-LC stands for LeetCode
+
+Abbrivations
+1- LC stands for LeetCode
